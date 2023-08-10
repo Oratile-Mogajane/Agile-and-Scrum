@@ -10,9 +10,11 @@ Each project will have a unique branching strategy. However , proejct 1 has been
 * The main branch is always kept up-to-date.
 
 THE USE OF A .gitignore file within each project.
+
 A .gitignore file is created for each project's repository to Indicate to Git the folders and files it should ignore when a commit is made . Commit the.gitignore file to your repository to make the ignore rules available to anyone that should want to clone the repository.
 
 THE STORAGE OF CREDENTIALS AND SENSITIVE INFORMATION.
+
 GitHub ensures security and authentification on Settings . By navigating to settings , under the 'security ' section and selecting 'Secrets' , you can make your repository secrete .
 
 
