@@ -18,8 +18,11 @@ THE STORAGE OF CREDENTIALS AND SENSITIVE INFORMATION.
 GitHub ensures security and authentification on Settings . By navigating to settings , under the 'security ' section and selecting 'Secrets' , you can make your repository secrete .
 
 
+
 PROJECT 2 README CONTENTS:
+
 Project-2-36450146
+
 EcoPower Logistics API and cloud deployment.
 
 The purpose of this project was to create an API for the 'EcoPower Logistics' company, it allows communication between the local and cloud database . The API and database are then stored on Cloud. The user can then access both the API and database on cloud(Azure), proper authentication has been put in place to ensure that the security of the API is not compromised.
