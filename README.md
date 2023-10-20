@@ -64,6 +64,12 @@ cloud.contentraven.com. (n.d.). Introduction to RPA and Automation. [online] Ava
 
 UiPath Studio. (n.d.). UI Automation. [online] Available at: https://docs.uipath.com/studio/docs/ui-automation.
 
+Uipath.com. (2023). Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/tutorials [Accessed 19 Oct. 2023].
+
+‌www.youtube.com. (n.d.). Read Range Activity| How to Read Excel in UiPath | UiPath Tutorials | Coderslobby. [online] Available at: https://www.youtube.com/watch?v=5G-024O9XK4 [Accessed 18 Oct. 2023].
+
+‌
+
 
 
 
